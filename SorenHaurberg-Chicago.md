@@ -6,7 +6,7 @@
 - Honey Butter Fried Chicken
 
 #### Places to Go
-- Miricle Mile
+- Magnificent Mile
 - Wrigley Field
 
 #### Places to Avoid
