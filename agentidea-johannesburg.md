@@ -1,13 +1,18 @@
 ### Johannesburg
 
 #### Places to Eat
-Sandton City, Madiba
+- Illovo Funky Taco
+- Patsies pastries
 
 #### Places to Go
-Swan lake
+- Soweto
+- Brakpan
+- RedHill
 
 #### Places to Avoid
-Chicken Farm
+- Yikskai river
+- Chicken Farm
 
 #### Fun Facts	 
-Goldmine town 
+- Goldmine town 
+- Manhattan of Africa
