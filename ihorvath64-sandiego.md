@@ -10,7 +10,7 @@
 - Swamis (for surfing)
 
 #### Places to Avoid
-- None :)
+- None, I think :)
 
 #### Fun Facts
 - Top Gun was filmed in SD
