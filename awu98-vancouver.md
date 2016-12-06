@@ -4,11 +4,11 @@
 - Sushi Ville
 - Marcello's
 - iHop
+- East is East
 
 #### Places to Go
 - Grouse Mountain
 - Deep Cove
-- Steveston
 
 #### Places to Avoid
 - East Hastings
