@@ -7,10 +7,10 @@
 #### Places to Go
 - Zilker Park
 - University of Texas
+- 6th Street
 
 #### Places to Avoid
 - Anywhere without parking
-- Downtown on Saturday night
 
 #### Fun Facts
 - Austin grows by about 100 people per day
