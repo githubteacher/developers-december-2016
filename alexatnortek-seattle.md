@@ -1,26 +1,26 @@
 #### Seattle, WA
 
-## Places to Eat
+### Places to Eat
 
 -- Fishermen Terminals
 -- Waterfront
 -- Downtown
 
-## Places to Go
+### Places to Go
 
 -- Discovery Park
 -- Locks
 
-## Places to See
+### Places to See
 
 --Library
 -- UW
 
-## Places to Avoid
+### Places to Avoid
 
 --Downtown
 
-## Fun Facts
+### Fun Facts
 
 -- Amazon
 -- Microsoft
