@@ -8,6 +8,7 @@
 #### Places to Go
 - Magnificent Mile
 - Wrigley Field
+- Willis Tower (formerly Sears Tower)
 
 #### Places to Avoid
 - Alleyways
