@@ -1,7 +1,7 @@
 ### Chicago
 
 #### Places to Eat
-- Home Run Inn Pizzaria
+- Home Run Inn Pizzeria
 
 #### Places to Go
 - Lake Zurich
