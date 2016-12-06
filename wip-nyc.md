@@ -2,6 +2,7 @@
 
 #### Places to Eat
 - A
+- B
 
 #### Places to Go
 - Death and Co
