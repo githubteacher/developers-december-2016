@@ -1,7 +1,7 @@
 ### Johannesburg
 
 #### Places to Eat
-- Illovo Funky Taco
+- Illovo Funky Taco, Crocodile or Canerat fillings!
 - Patsies pastries
 
 #### Places to Go
@@ -11,7 +11,7 @@
 
 #### Places to Avoid
 - Yikskai river
-- Chicken Farm
+- Chicken Farm, by the river
 
 #### Fun Facts	 
 - Goldmine town 
