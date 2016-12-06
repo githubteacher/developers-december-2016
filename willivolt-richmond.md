@@ -6,11 +6,12 @@
 - Off The Grid
 - El Agricultor Taco Truck
 
-#### Plaees to Go
-- Rosie the Riviter Musueme
+#### Places to Go
+- Rosie the Riviter Museum
 - East Brothers Lighthouse
 
 #### Places to Avoid
 - Iron Triangle
 
 #### Fun Facts
+- Home to one of three surviving Victory ships :ship:
