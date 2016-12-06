@@ -8,10 +8,9 @@
 #### Places to Go
 - Balboa Park
 - Coronado Island
+- Lake Cuyamaca
 
 #### Places to Avoid
-- East County
-- Death Valley
 
 #### Fun Facts
 - San Diego is famous for its :beer:
